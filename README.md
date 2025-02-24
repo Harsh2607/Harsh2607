@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> 
-  Developer, Code Connoisseur, and Lifelong Learner | Full-Stack Developer 🚀
+  Full-Stack Developer 🚀, Code Connoisseur, and Lifelong Learner
 </h3>
 
 <p align="center">
@@ -50,6 +50,7 @@ A passionate developer with about 2 years of professional experience, proficient
 </p>
 
 <hr>
+
 ## 🛠️ Skills
 
 ### Languages
@@ -111,5 +112,3 @@ A passionate developer with about 2 years of professional experience, proficient
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" title="LeetCode"/>
   </a>
 </p>
-
-<hr>
