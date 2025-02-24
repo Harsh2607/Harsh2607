@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 - 📧 **Email me at:** [harshgarg2607@gmail.com](mailto:harshgarg2607@gmail.com)  
-- 💡 **Who am I?** A passionate developer with over 1 year of professional experience with expertise in Python, Java, and cloud technologies.
+- 💡 **Who am I?** A passionate developer with about 2 years of professional experience with expertise in Python, Java, and cloud technologies.
 - 🔭 **Currently Exploring:** End-to-End Software Solutions.  
-- 💬 **Ask me about:** Python, Django, Data Engineering (Azure), Full-Stack Development, and all things programming.
+- 💬 **Ask me about:** Java, Python, Django, Data Engineering (Azure), Full-Stack Development, and all things programming.
 - 🎓 **Education:** B.Tech in Computer Science & Engineering
 
 ### ☕ Fun Fact: I love learning new frameworks while sipping coffee!
