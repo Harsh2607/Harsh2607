@@ -104,7 +104,7 @@ A passionate developer with about 2 years of professional experience, proficient
   <i>*I’m open to collaborations on exciting projects or strategic discussions about Python, Django, Java backend solutions, and full-stack development!*</i>
 </div>
 <br>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/harshgarg17542607/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
   </a>
